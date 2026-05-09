@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Jatra
+
+This log tracks the cryptographic history and versioning for the song **Jatra** (jatra).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T04:58:39.763639 | `v1` | `15124dd74b53b927539c8e1604c20cf65f0eb4777c37d1a1f4a688af6d3f751c` | `35bf110aa4d8cc3a458daaeac1af8b7300c6f2168f25c3d534a7fa8667970276` | `2026-05-10_jatra-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
