@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/jatra/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Jatra](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jatra/) |
+| **Get License** | [Secure Licensing Rights for Jatra](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jatra/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 4e028848423ee1658fdc5944d300a804f60a2c3a
+> অন্ধকারে খুঁজি আমি তোমার চেনা ঘ্রাণ
+> বুকের মাঝে লুকিয়ে আছে তৃষ্ণার্ত এক গান
+> শীতল রাতে উষ্ণ ছোঁয়ায় আগুন জ্বলে যায়
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
